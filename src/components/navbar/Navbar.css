@@ -1,0 +1,12 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid #d3d3d3;
+}
+
+.links a{
+    color: inherit;
+    text-decoration: inherit;
+    font-size: 36px;
+    font-weight: 600;
+}

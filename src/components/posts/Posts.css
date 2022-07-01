@@ -1,0 +1,14 @@
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+.pagination p {
+    cursor: pointer;
+}
+
+.clickable:hover {
+    cursor: pointer;
+    background-color: #0d6efd;;
+    color: white;
+}
